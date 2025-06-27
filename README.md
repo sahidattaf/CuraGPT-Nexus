@@ -1,7 +1,10 @@
 # CuraGPT-Nexus
 
-![WhatsApp Image 2025-06-26 at 23 31 56_45642c40](https://github.com/user-attachments/assets/ceaad981-0ffc-4f50-a854-b22d1e9f9cae)
-![image](https://github.com/user-attachments/assets/d99889b5-7a96-46ec-a202-ec86aa4174fa)
+![image](https://github.com/user-attachments/assets/79ae4f0f-d052-4d20-b38b-1070f44ae713)
+![image](https://github.com/user-attachments/assets/71b1bd14-f81a-4a37-b511-ec67fc800081)
+![WhatsApp Image 2025-06-26 at 23 31 56_f1d2595f](https://github.com/user-attachments/assets/41460649-8646-4151-97f6-d6202b55674d)
+
+
 # 🧠 CuraGPT-Nexus — Multi-Agent AI Framework for Curaçao 🌍
 
 Welcome to **CuraGPT-Nexus**, an open-source, modular AI framework for orchestrating multilingual, domain-specific GPT agents built to serve Curaçao's education, real estate, and healthcare sectors.
