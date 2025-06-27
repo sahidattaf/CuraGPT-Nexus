@@ -19,6 +19,7 @@ Founder of PiskaTech | AI Researcher & GPT Orchestrator
 🔗 [LinkedIn](https://linkedin.com/in/sahidattaf)  
 📘 [Facebook](https://facebook.com/YOUR_PAGE)  
 📲 WhatsApp (Business): Available upon request
+
 📁 “CuraGPT Nexus” Architecture  https://chatgpt.com/s/dr_685e378881688191bcf2e492ec2dd0ae
 ---
 
