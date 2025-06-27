@@ -1,6 +1,7 @@
 # CuraGPT-Nexus
 
 ![image](https://github.com/user-attachments/assets/79ae4f0f-d052-4d20-b38b-1070f44ae713)
+![image](https://github.com/user-attachments/assets/a1ea853f-b633-4576-b575-4be5a3e30e50)
 
 
 # 🧠 CuraGPT-Nexus — Multi-Agent AI Framework for Curaçao 🌍
@@ -18,7 +19,7 @@ Founder of PiskaTech | AI Researcher & GPT Orchestrator
 🔗 [LinkedIn](https://linkedin.com/in/sahidattaf)  
 📘 [Facebook](https://facebook.com/YOUR_PAGE)  
 📲 WhatsApp (Business): Available upon request
-
+https://chatgpt.com/s/dr_685e378881688191bcf2e492ec2dd0ae
 ---
 
 ## 📁 Folder Structure
