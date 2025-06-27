@@ -104,5 +104,36 @@ Founder of PiskaTech | AI Researcher & GPT Orchestrator
 
 Licensed under **MIT**. Use it, remix it, build your CuraGPT ecosystem with it.
 
+# CuraGPT Nexus
+
+A Modular Multi-Agent GPT Orchestration Ecosystem
+
+## Overview
+CuraGPT Nexus coordinates several specialized GPT-based agents under a central orchestration framework. Instead of a single monolithic model, it employs a team of domain-specific expert models managed by a central orchestrator.
+
+### Key Components
+- **Runika (Universal Prompt Engine):** Injects a consistent system prompt for all agents.
+- **SentiSync-AI (Intent Analyzer):** Classifies user input by domain to route queries appropriately.
+- **Maestro de GPT (Central Orchestrator):** Delegates queries to the correct specialist agent and manages workflow.
+- **Domain GPT Agents:**
+  - CasaVisionario (RealEstateGPT)
+  - Hospitalia (HospitalityGPT)
+  - EstudiaMaster (StudentGPT)
+- **Grimorio Metrics (Feedback Collector):** Gathers usage data and user feedback.
+- **LoopAlquimia (Model Refiner):** Uses feedback to adjust prompts or retrain models.
+- **Insight Orb (Dashboard):** Visualizes system metrics and agent performance.
+
+## Getting Started
+Run the demo:
+```bash
+python main.py
+```
+
+## Architecture
+See the codebase for modular implementation of each component. Each module is designed for extensibility and continuous improvement.
+
+---
+Inspired by the vision of Sahid J. Attaf.
+
 
 
